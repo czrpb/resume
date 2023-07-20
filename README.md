@@ -10,7 +10,7 @@
 </td>
 <td>
 <p><b>Education:</b> B.S., CS, 1994, University of Oregon</p>
-<p><b>Links:</b> [github](https://github.com/czrpb) [LinkedIn](https://www.linkedin.com/in/quentin-crain-025aba2/)</p>
+<p><b>Links:</b> <a href="https://github.com/czrpb">github</a> <a href="https://www.linkedin.com/in/quentin-crain-025aba2/">LinkedIn</a></p>
 <p><b>Email:</b> czrpb@yahoo.com</p>
 </td>
 </tr>
