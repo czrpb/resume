@@ -7,7 +7,7 @@
 <p>25+yrs of experience at Intel implementing full lifecycle complex systems in production environments</p>
 
 <details>
-<summary>Sr Software Engineer - Intel - 2019-Present<br/><code>   </code>Managed Successful Releases for a Telemetry Client</summary>
+<summary>Sr Software Engineer - Intel - 2019-Present<br/>&nbsp;&nbsp;&nbsp;Managed Successful Releases for a Telemetry Client</summary>
 
 <br/>
 Working in a variety of capacities:
