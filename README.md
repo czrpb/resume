@@ -4,14 +4,14 @@
 <table>
 <tr>
 <td>
-<p>*Summary:* 25+yrs of experience at Intel implementing full lifecycle complex systems in production environments</p>
-<p>*Technical:* Python since 1.5; Microservice Architect, Social Network Analysis and Visualization</p>
-<p>*Behavioral:* Cooperative, Clear, Concise</p>
+<p><b>Summary:</b> 25+yrs of experience at Intel implementing full lifecycle complex systems in production environments</p>
+<p><b>Technical:</b> Python since 1.5; Microservice Architect, Social Network Analysis and Visualization</p>
+<p><b>Behavioral:</b> Cooperative, Clear, Concise</p>
 </td>
 <td>
-<p>*Education:* B.S., CS, 1994, University of Oregon</p>
-<p>*Links:* [github](https://github.com/czrpb) [LinkedIn](https://www.linkedin.com/in/quentin-crain-025aba2/)</p>
-<p>*Email:* czrpb@yahoo.com</p>
+<p><b>Education:</b> B.S., CS, 1994, University of Oregon</p>
+<p><b>Links:</b> [github](https://github.com/czrpb) [LinkedIn](https://www.linkedin.com/in/quentin-crain-025aba2/)</p>
+<p><b>Email:</b> czrpb@yahoo.com</p>
 </td>
 </tr>
 </table>
