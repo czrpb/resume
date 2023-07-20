@@ -29,6 +29,7 @@ Working in a variety of capacities:
 <summary>Sr Solution Engineer - Intel (Saffron) - 2018-2019<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Onsite Data Analyst for Cognitive Computing Platform</summary>
 
 <br/>
+<p>https://en.wikipedia.org/wiki/Saffron_Technology</p>
 
 > Onsite expert implementation of Saffron tailored to customer's needs. Designing Saffron spaces, architecting Saffron custom implementations and results visualization. Presenting to customer's leadership staff.
 
@@ -41,7 +42,6 @@ Working in a variety of capacities:
 
 <br/>
 <p>https://en.wikipedia.org/wiki/Saffron_Technology</p>
-
 
 > QA Engineer within the Saffron organization working on testing the Saffron Memory Base cognitive computing platform. Architected cucumber feature/suite hierarchies. Implemented test suites for SMB's connectionist AI framework, including test cases to verify algorithmic correctness.
 
