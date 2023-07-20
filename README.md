@@ -2,11 +2,28 @@
 ### Consummate Generalist
 
 > https://github.com/czrpb
+> https://www.linkedin.com/in/quentin-crain-025aba2/
 
-<p>.</p>
+<p>2+yrs of experience at Intel implementing full lifecycle complex systems in production environments</p>
 
 <details>
-<summary>Sr Solution Engineer - 2018-Present<br/>Onsite Data Analyst for Cognitive Computing Platform</summary>
+<summary>Sr Software Engineer - Intel - 2019-Present<br/>Managed Successful Releases for a Telemetry Client</summary>
+
+Working in a variety of capacities:
+
+1. QA Lead and brought up all aspects of QA
+1. SAFe RTE for Telemetry team
+1. Agile PO for Development team
+1. Mentoring for multiple jr developers
+
+> *Innovation*: Observational Test System (OTiS)
+
+> *Technologies*: Python3, Elixir; git
+
+</details>
+<br/>
+<details>
+<summary>Sr Solution Engineer - Intel (Saffron) - 2018-Present<br/>Onsite Data Analyst for Cognitive Computing Platform</summary>
 
 > Onsite expert implementation of Saffron tailored to customer's needs. Designing Saffron spaces, architecting Saffron custom implementations and results visualization. Presenting to customer's leadership staff.
 
@@ -15,7 +32,7 @@
 </details>
 <br/>
 <details>
-<summary>Lead QA Engineer - 2016-2018<br/>QA Lead on Cognitive Computing Platform</summary>
+<summary>Lead QA Engineer - Intel (Saffron) - 2016-2018<br/>QA Lead on Cognitive Computing Platform</summary>
 
 https://en.wikipedia.org/wiki/Saffron_Technology
 
