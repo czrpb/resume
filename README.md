@@ -3,7 +3,7 @@
 
 > https://github.com/czrpb
 
-
+<p>.</p>
 
 <details>
 <summary>Sr Solution Engineer - 2018-Present<br/>Onsite Data Analyst for Cognitive Computing Platform</summary>
