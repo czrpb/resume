@@ -40,8 +40,8 @@ Working in a variety of capacities:
 <summary>Lead QA Engineer - Intel (Saffron) - 2016-2018<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QA Lead on Cognitive Computing Platform</summary>
 
 <br/>
-https://en.wikipedia.org/wiki/Saffron_Technology
-<br/>
+<p>https://en.wikipedia.org/wiki/Saffron_Technology</p>
+
 
 > QA Engineer within the Saffron organization working on testing the Saffron Memory Base cognitive computing platform. Architected cucumber feature/suite hierarchies. Implemented test suites for SMB's connectionist AI framework, including test cases to verify algorithmic correctness.
 
