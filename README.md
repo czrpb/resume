@@ -100,7 +100,7 @@ Working in a variety of capacities:
 <summary>Part-Time Instructor - Mt. Hood Community College - 1996-1998<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curriculum Creation for an Associates Degree</summary>
 
 <br/>
-<p>**Classroom Experience**: Lectured to all classes. Varying knowledge levels necessitated simple explanations for complex ideas. Consistently received >95% positive student feedback.</p>
+<p><b>Classroom Experience</b>: Lectured to all classes. Varying knowledge levels necessitated simple explanations for complex ideas. Consistently received >95% positive student feedback.</p>
 
 > Created curriculum for classes on Basic, Intermediate and Advanced HTML, JavaScript, and CGI Programming with Perl. Emphasis on understanding the simplicity and power of the World Wide Web and its related technologies. Created all student class materials: Self-guided web page tutorials, lecture content, and PowerPoint presentations.
 
