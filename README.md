@@ -29,6 +29,7 @@ Working in a variety of capacities:
 <summary>Sr Solution Engineer - Intel (Saffron) - 2018-2019<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Onsite Data Analyst for Cognitive Computing Platform</summary>
 
 <br/>
+
 > Onsite expert implementation of Saffron tailored to customer's needs. Designing Saffron spaces, architecting Saffron custom implementations and results visualization. Presenting to customer's leadership staff.
 
 > *Technologies*: Anaconda/Python3, Javascript, Elixir; Jupyter Notebooks; NetworkX, D3
