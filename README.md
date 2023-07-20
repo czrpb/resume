@@ -46,35 +46,37 @@ https://en.wikipedia.org/wiki/Saffron_Technology
 <details>
 <summary>Sr. Software Engineer (Integration Team) - 2006-2009<br/>f</summary>
 
-> 
+> Managed and developed systems to drive efficient circuit design across entire chip design team. Developed a GUI platform for integrating design solutions in C++ & Qt. These solutions ranged from report viewers, database interfaces, and schematic/layout circuit editors. System provided integration between solutions for maximum design efficiency.
 
-> 
+> OOD, GUI Design; C++; Qt; SQLite3
 
 </details>
 <br/>
 <details>
 <summary>Sr. Software Engineer (Environment Team) - Intel - 1996-2006<br/>f</summary>
 
-> 
+> Responsible for multiple chip design teams' development infrastructure and environment. Helped develop the program and development environment for a leading-edge chip design team and its proliferations. System used AFS, code versioning, and release control mechanisms to allow multiple projects to share one development environment and across multiple sites around the world via rsync. Fully automated infrastructure for project management. 10k line Perl system with modules. System supports 500 engineers doing leading-edge chip design. Provided information to senior staff for management action.
 
-> 
+> Environment Development; Linux; Perl, Shell
 
 </details>
 <br/>
 <details>
 <summary>Part-Time Instructor - Mt. Hood Community College - 1996-1998<br/>f</summary>
 
-> 
+**Classroom Experience**: Lectured to all classes. Varying knowledge levels necessitated simple explanations for complex ideas. Consistently received >95% positive student feedback.
 
-> 
+> Created curriculum for classes on Basic, Intermediate and Advanced HTML, JavaScript, and CGI Programming with Perl. Emphasis on understanding the simplicity and power of the World Wide Web and its related technologies. Created all student class materials: Self-guided web page tutorials, lecture content, and PowerPoint presentations.
+
+> Networks, Design/Presentation, HTML, JavaScript, CGI 
 
 </details>
 <br/>
 <details>
 <summary>Programmer / Librarian (Software Team) - CorVel Corporation - 1994-1996<br/>f</summary>
 
-> 
+> Assigned to distribute and control the release of upgrades of the company's main product to its fifty data processing sites throughout the US. Main focus on automating the process through creation of tools and scripts. Assigned to the team charged with analyzing the company's current software and moving and enhancing to Delphi 2.0. Concurrent assignment was to improve the efficiency and accuracy and to speed the creation of current and new reports needed by various departments data processing sites throughout the company. This was achieved through scripting and mentoring.
 
-> 
+> VMS, DCL, Dibol, Crystal Reports, Object Pascal
 
 </details>
