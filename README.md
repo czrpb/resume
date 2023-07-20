@@ -2,6 +2,7 @@
 ### Consummate Generalist
 
 > https://github.com/czrpb
+> 
 > https://www.linkedin.com/in/quentin-crain-025aba2/
 
 <p>25+yrs of experience at Intel implementing full lifecycle complex systems in production environments</p>
