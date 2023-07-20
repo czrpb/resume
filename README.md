@@ -1,11 +1,20 @@
 # Quentin Crain
 ### Consummate Generalist
 
-<p>25+yrs of experience at Intel implementing full lifecycle complex systems in production environments</p>
-
-> https://github.com/czrpb
-> 
-> https://www.linkedin.com/in/quentin-crain-025aba2/
+<table>
+<tr>
+<td>
+<p>*Summary:* 25+yrs of experience at Intel implementing full lifecycle complex systems in production environments</p>
+<p>*Technical:* Python since 1.5; Microservice Architect, Social Network Analysis and Visualization</p>
+<p>*Behavioral:* Cooperative, Clear, Concise</p>
+</td>
+<td>
+<p>*Education:* B.S., CS, 1994, University of Oregon</p>
+<p>*Links:* [github](https://github.com/czrpb) [LinkedIn](https://www.linkedin.com/in/quentin-crain-025aba2/)</p>
+<p>*Email:* czrpb@yahoo.com</p>
+</td>
+</tr>
+</table>
 
 <br/>
 
