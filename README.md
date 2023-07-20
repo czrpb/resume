@@ -26,7 +26,7 @@ https://en.wikipedia.org/wiki/Saffron_Technology
 </details>
 <br/>
 <details>
-<summary>Framework Architect (Solutions Team) - 2012-2016<br/>Architected Microservice solution</summary>
+<summary>Framework Architect (Solutions Team) - 2012-2016<br/>Architected Test Execution Framework as Microservices</summary>
 
 > Development team lead designing 3rd generation validation framework for a number of platform/form-factor reference boards from fab. Deployed every 2wks via an Agile-like process. Supported individual world-wide installations and stood-up a global instance. Developed and delivered technical documentation/training and proliferated solution to external teams and business organizations.
 
