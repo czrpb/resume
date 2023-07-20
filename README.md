@@ -9,7 +9,8 @@
 <details>
 <summary>Sr Software Engineer - Intel - 2019-Present<br/>Managed Successful Releases for a Telemetry Client</summary>
 
-<p>Working in a variety of capacities:</p>
+<br/><br/>
+Working in a variety of capacities:
 
 1. QA Lead and brought up all aspects of QA
 1. SAFe RTE for Telemetry team
