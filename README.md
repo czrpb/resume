@@ -1,5 +1,5 @@
 # Quentin Crain
-#### Consumate Generalist
+### Consumate Generalist
 
 > https://github.com/czrpb
 
