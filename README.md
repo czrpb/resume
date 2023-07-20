@@ -1,6 +1,6 @@
 # Quentin Crain
 
-<center><b>Consummate Generalist</b></center>
+<table><tr><td align="center">Consummate Generalist</td></tr></table>
 
 <table>
 <tr>
