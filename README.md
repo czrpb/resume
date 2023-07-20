@@ -64,7 +64,7 @@ Working in a variety of capacities:
 <summary>Build Lead (Automation Team) - 2009-2012<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Architected Build System via Metaphoric Design</summary>
 
 <br/>
-<p>**Metaphoric Design**: BTA (Build and Test Automation) as a Diner with Recipes, Chefs, Waiters, etc.</p>
+<p><b>Metaphoric Design</b>: BTA (Build and Test Automation) as a Diner with Recipes, Chefs, Waiters, etc.</p>
 
 > Technical lead for project software build, test, and release of reference Linux distribution based on RedHat. Solution implemented in Python with Metaphor Design running on vmWare virtual (Linux) machines. Solution included branch management, configuration, versioning, and SDK/ISO packaging. Delivered technical training to 200+ engineers across design sites.
 
