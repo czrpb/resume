@@ -1,5 +1,5 @@
 # Quentin Crain
-### Consumate Generalist
+### Consummate Generalist
 
 > https://github.com/czrpb
 
@@ -15,7 +15,7 @@
 </details>
 <br/>
 <details>
-<summary>Lead QA Engineer - 2016-2018<br/>QA Lead on Congnitive Computing Platform</summary>
+<summary>Lead QA Engineer - 2016-2018<br/>QA Lead on Cognitive Computing Platform</summary>
 
 https://en.wikipedia.org/wiki/Saffron_Technology
 
