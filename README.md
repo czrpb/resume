@@ -1,7 +1,9 @@
 # Quentin Crain
 #### Consumate Generalist
 
-**f**: f
+> https://github.com/czrpb
+
+
 
 <details>
 <summary>Sr Solution Engineer - 2018-Present<br/>Onsite Data Analyst</summary>
@@ -64,7 +66,7 @@ https://en.wikipedia.org/wiki/Saffron_Technology
 </details>
 <br/>
 <details>
-<summary>Part-Time Instructor - Mt. Hood Community College - 1996-1998<br/>f</summary>
+<summary>Part-Time Instructor - Mt. Hood Community College - 1996-1998<br/>Curriculum Creation for an Associates Degree</summary>
 
 **Classroom Experience**: Lectured to all classes. Varying knowledge levels necessitated simple explanations for complex ideas. Consistently received >95% positive student feedback.
 
@@ -75,7 +77,7 @@ https://en.wikipedia.org/wiki/Saffron_Technology
 </details>
 <br/>
 <details>
-<summary>Programmer / Librarian (Software Team) - CorVel Corporation - 1994-1996<br/>f</summary>
+<summary>Programmer / Librarian (Software Team) - CorVel Corporation - 1994-1996<br/>Initial Job out of University</summary>
 
 > Assigned to distribute and control the release of upgrades of the company's main product to its fifty data processing sites throughout the US. Main focus on automating the process through creation of tools and scripts. Assigned to the team charged with analyzing the company's current software and moving and enhancing to Delphi 2.0. Concurrent assignment was to improve the efficiency and accuracy and to speed the creation of current and new reports needed by various departments data processing sites throughout the company. This was achieved through scripting and mentoring.
 
