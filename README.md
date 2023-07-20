@@ -50,7 +50,7 @@ https://en.wikipedia.org/wiki/Saffron_Technology
 
 > *Technologies*: OOD, GUI Design; C++; Qt; SQLite3
 
-> *Examples*: minitable, infopop
+> *Examples*: minitable.md, [infopop](infopop.md)
 
 </details>
 <br/>
