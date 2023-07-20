@@ -1,12 +1,12 @@
 # Quentin Crain
 
-<center><h3>Consummate Generalist</center></h3>
+<center><b>Consummate Generalist</b></center>
 
 <table>
 <tr>
 <td>
 <p><b>Summary:</b> 25+yrs of experience at Intel implementing full lifecycle complex systems in production environments</p>
-<p><b>Technical:</b> Python since 1.5; Microservice Architect, Social Network Analysis and Visualization</p>
+<p><b>Technical:</b> Python since 1.5; Functional/Elixir/Racket; Microservice Architect; Social Network Analysis and Visualization</p>
 <p><b>Behavioral:</b> Cooperative, Clear, Concise</p>
 </td>
 <td>
