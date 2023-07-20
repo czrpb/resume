@@ -1,5 +1,6 @@
 # Quentin Crain
-### Consummate Generalist
+
+<center><h3>Consummate Generalist</center></h3>
 
 <table>
 <tr>
