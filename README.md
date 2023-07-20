@@ -41,6 +41,7 @@ Working in a variety of capacities:
 
 <br/>
 https://en.wikipedia.org/wiki/Saffron_Technology
+<br/>
 
 > QA Engineer within the Saffron organization working on testing the Saffron Memory Base cognitive computing platform. Architected cucumber feature/suite hierarchies. Implemented test suites for SMB's connectionist AI framework, including test cases to verify algorithmic correctness.
 
