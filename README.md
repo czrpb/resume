@@ -1,11 +1,13 @@
 # Quentin Crain
 ### Consummate Generalist
 
+<p>25+yrs of experience at Intel implementing full lifecycle complex systems in production environments</p>
+
 > https://github.com/czrpb
 > 
 > https://www.linkedin.com/in/quentin-crain-025aba2/
 
-<p>25+yrs of experience at Intel implementing full lifecycle complex systems in production environments</p>
+<br/>
 
 <details>
 <summary>Sr Software Engineer - Intel - 2019-Present<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Managed Successful Releases for a Telemetry Client</summary>
