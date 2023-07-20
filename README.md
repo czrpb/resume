@@ -23,7 +23,7 @@ Working in a variety of capacities:
 </details>
 <br/>
 <details>
-<summary>Sr Solution Engineer - Intel (Saffron) - 2018-Present<br/>Onsite Data Analyst for Cognitive Computing Platform</summary>
+<summary>Sr Solution Engineer - Intel (Saffron) - 2018-2019<br/>Onsite Data Analyst for Cognitive Computing Platform</summary>
 
 > Onsite expert implementation of Saffron tailored to customer's needs. Designing Saffron spaces, architecting Saffron custom implementations and results visualization. Presenting to customer's leadership staff.
 
