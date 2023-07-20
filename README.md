@@ -6,7 +6,7 @@
 
 
 <details>
-<summary>Sr Solution Engineer - 2018-Present<br/>Onsite Data Analyst</summary>
+<summary>Sr Solution Engineer - 2018-Present<br/>Onsite Data Analyst for Cognitive Computing Platform</summary>
 
 > Onsite expert implementation of Saffron tailored to customer's needs. Designing Saffron spaces, architecting Saffron custom implementations and results visualization. Presenting to customer's leadership staff.
 
@@ -35,7 +35,7 @@ https://en.wikipedia.org/wiki/Saffron_Technology
 </details>
 <br/>
 <details>
-<summary>Build Lead (Automation Team) - 2009-2012<br/>Architected Build System</summary>
+<summary>Build Lead (Automation Team) - 2009-2012<br/>Architected Build System via Metaphoric Design</summary>
 
 **Metaphoric Design**: BTA (Build and Test Automation) as a Diner with Recipes, Chefs, Waiters, etc.
 
@@ -46,7 +46,7 @@ https://en.wikipedia.org/wiki/Saffron_Technology
 </details>
 <br/>
 <details>
-<summary>Sr. Software Engineer (Integration Team) - 2006-2009<br/>f</summary>
+<summary>Sr. Software Engineer (Integration Team) - 2006-2009<br/>Integrating Software Solutions for Efficiency</summary>
 
 > Managed and developed systems to drive efficient circuit design across entire chip design team. Developed a GUI platform for integrating design solutions in C++ & Qt. These solutions ranged from report viewers, database interfaces, and schematic/layout circuit editors. System provided integration between solutions for maximum design efficiency.
 
@@ -57,7 +57,7 @@ https://en.wikipedia.org/wiki/Saffron_Technology
 </details>
 <br/>
 <details>
-<summary>Sr. Software Engineer (Environment Team) - Intel - 1996-2006<br/>f</summary>
+<summary>Sr. Software Engineer (Environment Team) - Intel - 1996-2006<br/>Infrastructure & Environment Lead Supporting CPU Design Team</summary>
 
 > Responsible for multiple chip design teams' development infrastructure and environment. Helped develop the program and development environment for a leading-edge chip design team and its proliferations. System used AFS, code versioning, and release control mechanisms to allow multiple projects to share one development environment and across multiple sites around the world via rsync. Fully automated infrastructure for project management. 10k line Perl system with modules. System supports 500 engineers doing leading-edge chip design. Provided information to senior staff for management action.
 
