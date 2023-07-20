@@ -10,4 +10,4 @@ The goal of MiniTable is to be able to display data in a small area. It does thi
 
 Currently, data in the table cells is uneditable.
 
-[code](code.zip)
+[code](minitable.tar.bz2)
