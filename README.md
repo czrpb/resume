@@ -12,6 +12,7 @@
 <br/>
 Working in a variety of capacities:
 <br/>
+
 1. QA Lead and brought up all aspects of QA
 1. SAFe RTE for Telemetry team
 1. Agile PO for Development team
