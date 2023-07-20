@@ -8,7 +8,7 @@
 
 > Onsite expert implementation of Saffron tailored to customer's needs. Designing Saffron spaces, architecting Saffron custom implementations and results visualization. Presenting to customer's leadership staff.
 
-> Anaconda/Python3, Javascript, Elixir; Jupyter Notebooks; NetworkX, D3
+> *Technologies*: Anaconda/Python3, Javascript, Elixir; Jupyter Notebooks; NetworkX, D3
 
 </details>
 <br/>
@@ -19,7 +19,7 @@ https://en.wikipedia.org/wiki/Saffron_Technology
 
 > QA Engineer within the Saffron organization working on testing the Saffron Memory Base cognitive computing platform. Architected cucumber feature/suite hierarchies. Implemented test suites for SMB's connectionist AI framework, including test cases to verify algorithmic correctness.
 
-> BDD/Cucumber, REST API; Python, Elixir; Teamcity; Protex    
+> *Technologies*: BDD/Cucumber, REST API; Python, Elixir; Teamcity; Protex    
 
 </details>
 <br/>
@@ -28,7 +28,7 @@ https://en.wikipedia.org/wiki/Saffron_Technology
 
 > Development team lead designing 3rd generation validation framework for a number of platform/form-factor reference boards from fab. Deployed every 2wks via an Agile-like process. Supported individual world-wide installations and stood-up a global instance. Developed and delivered technical documentation/training and proliferated solution to external teams and business organizations.
 
-> SOA/Microservices, REST; Python, CherryPy, Bottle; Sqlite; HTML5; Riak
+> *Technologies*: SOA/Microservices, REST; Python, CherryPy, Bottle; Sqlite; HTML5; Riak
 
 </details>
 <br/>
@@ -39,7 +39,7 @@ https://en.wikipedia.org/wiki/Saffron_Technology
 
 > Technical lead for project software build, test, and release of reference Linux distribution based on RedHat. Solution implemented in Python with Metaphor Design running on vmWare virtual (Linux) machines. Solution included branch management, configuration, versioning, and SDK/ISO packaging. Delivered technical training to 200+ engineers across design sites.
 
-> Metaphor Design; Python, Django; REST/XML/XPATH; SQL; SVN, Hg 
+> *Technologies*: Metaphor Design; Python, Django; REST/XML/XPATH; SQL; SVN, Hg 
 
 </details>
 <br/>
@@ -48,7 +48,9 @@ https://en.wikipedia.org/wiki/Saffron_Technology
 
 > Managed and developed systems to drive efficient circuit design across entire chip design team. Developed a GUI platform for integrating design solutions in C++ & Qt. These solutions ranged from report viewers, database interfaces, and schematic/layout circuit editors. System provided integration between solutions for maximum design efficiency.
 
-> OOD, GUI Design; C++; Qt; SQLite3
+> *Technologies*: OOD, GUI Design; C++; Qt; SQLite3
+
+> *Examples*: minitable, infopop
 
 </details>
 <br/>
@@ -57,7 +59,7 @@ https://en.wikipedia.org/wiki/Saffron_Technology
 
 > Responsible for multiple chip design teams' development infrastructure and environment. Helped develop the program and development environment for a leading-edge chip design team and its proliferations. System used AFS, code versioning, and release control mechanisms to allow multiple projects to share one development environment and across multiple sites around the world via rsync. Fully automated infrastructure for project management. 10k line Perl system with modules. System supports 500 engineers doing leading-edge chip design. Provided information to senior staff for management action.
 
-> Environment Development; Linux; Perl, Shell
+> *Technologies*: Environment Development; Linux; Perl, Shell
 
 </details>
 <br/>
@@ -68,7 +70,7 @@ https://en.wikipedia.org/wiki/Saffron_Technology
 
 > Created curriculum for classes on Basic, Intermediate and Advanced HTML, JavaScript, and CGI Programming with Perl. Emphasis on understanding the simplicity and power of the World Wide Web and its related technologies. Created all student class materials: Self-guided web page tutorials, lecture content, and PowerPoint presentations.
 
-> Networks, Design/Presentation, HTML, JavaScript, CGI 
+> *Concepts*: Networks, Design/Presentation, HTML, JavaScript, CGI 
 
 </details>
 <br/>
@@ -77,6 +79,6 @@ https://en.wikipedia.org/wiki/Saffron_Technology
 
 > Assigned to distribute and control the release of upgrades of the company's main product to its fifty data processing sites throughout the US. Main focus on automating the process through creation of tools and scripts. Assigned to the team charged with analyzing the company's current software and moving and enhancing to Delphi 2.0. Concurrent assignment was to improve the efficiency and accuracy and to speed the creation of current and new reports needed by various departments data processing sites throughout the company. This was achieved through scripting and mentoring.
 
-> VMS, DCL, Dibol, Crystal Reports, Object Pascal
+> *Technologies*: VMS, DCL, Dibol, Crystal Reports, Object Pascal
 
 </details>
