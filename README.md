@@ -53,6 +53,7 @@ Working in a variety of capacities:
 <summary>Framework Architect (Solutions Team) - 2012-2016<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Architected Test Execution Framework as Microservices</summary>
 
 <br/>
+
 > Development team lead designing 3rd generation validation framework for a number of platform/form-factor reference boards from fab. Deployed every 2wks via an Agile-like process. Supported individual world-wide installations and stood-up a global instance. Developed and delivered technical documentation/training and proliferated solution to external teams and business organizations.
 
 > *Technologies*: SOA/Microservices, REST; Python, CherryPy, Bottle; Sqlite; HTML5; Riak
@@ -63,7 +64,7 @@ Working in a variety of capacities:
 <summary>Build Lead (Automation Team) - 2009-2012<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Architected Build System via Metaphoric Design</summary>
 
 <br/>
-**Metaphoric Design**: BTA (Build and Test Automation) as a Diner with Recipes, Chefs, Waiters, etc.
+<p>**Metaphoric Design**: BTA (Build and Test Automation) as a Diner with Recipes, Chefs, Waiters, etc.</p>
 
 > Technical lead for project software build, test, and release of reference Linux distribution based on RedHat. Solution implemented in Python with Metaphor Design running on vmWare virtual (Linux) machines. Solution included branch management, configuration, versioning, and SDK/ISO packaging. Delivered technical training to 200+ engineers across design sites.
 
@@ -99,7 +100,7 @@ Working in a variety of capacities:
 <summary>Part-Time Instructor - Mt. Hood Community College - 1996-1998<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curriculum Creation for an Associates Degree</summary>
 
 <br/>
-**Classroom Experience**: Lectured to all classes. Varying knowledge levels necessitated simple explanations for complex ideas. Consistently received >95% positive student feedback.
+<p>**Classroom Experience**: Lectured to all classes. Varying knowledge levels necessitated simple explanations for complex ideas. Consistently received >95% positive student feedback.</p>
 
 > Created curriculum for classes on Basic, Intermediate and Advanced HTML, JavaScript, and CGI Programming with Perl. Emphasis on understanding the simplicity and power of the World Wide Web and its related technologies. Created all student class materials: Self-guided web page tutorials, lecture content, and PowerPoint presentations.
 
