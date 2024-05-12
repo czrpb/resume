@@ -34,7 +34,7 @@ Organization's lead advocate (aka: voice) for developers. Working to create a tr
 > 1. Critical Realism
 > 1. Transformative Mediation
 > 
-> to effect trust to enable change.
+> to effect trust, enable openness, resulting in change.
 
 </details>
 <br/>
