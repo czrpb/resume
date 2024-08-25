@@ -16,6 +16,9 @@ Senior Lead Software Engineer with extensive experience at shepherding teams’ 
   * Grew the culture of SW professionalism in an organization of 300+ with 15+ documented SW best practices in half a year thru the formation of an Engineering Practices team of 5
   * Cultivated a culture of active caring, including Respect, Openness, Honesty, evidenced by impactful bottom-up influence thru (a) direct engineer “listening” sessions, (b) quarterly hacker weeks, and (c) facilitating trustful failure analysis reviews by building a 6-person Engineer Advocate team
   * Influenced business decisions by enabling timely bi-quarterly releases of a telemetry tool to 10+ million systems as both PO and QA lead
+
+&nbsp;&nbsp;&nbsp;&nbsp;*Innovation*: Observational Test System (OTiS)&nbsp;&nbsp;|&nbsp;&nbsp;*Technologies*: Python, Elixir&nbsp;&nbsp;|&nbsp;&nbsp;*Focuses*: Mentoring & Team Culture
+
 </details>
 
 <details>
