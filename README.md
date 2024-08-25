@@ -11,7 +11,7 @@ Senior Lead Software Engineer with extensive experience at shepherding teams’ 
 ## Professional Experience
 
 <details>
-  <summary>**Developer Advocate (Sr Lead Software Engineer)**&nbsp;&nbsp;|&nbsp;&nbsp;Intel Corp, Hillsboro, OR&nbsp;&nbsp;|&nbsp;&nbsp;2019 – Present</summary>
+  <summary><b>Developer Advocate (Sr Lead Software Engineer)</b>&nbsp;&nbsp;|&nbsp;&nbsp;Intel Corp, Hillsboro, OR&nbsp;&nbsp;|&nbsp;&nbsp;2019 – Present</summary>
 
   <br/>
 
@@ -28,7 +28,7 @@ Senior Lead Software Engineer with extensive experience at shepherding teams’ 
 </details>
 
 <details>
-  <summary>Senior Solutions & QA Lead Engineer&nbsp;&nbsp;|&nbsp;&nbsp;Saffron Corp (Intel), Cary, NC&nbsp;&nbsp;|&nbsp;&nbsp;2016 – 2019</summary>
+  <summary><b>Senior Solutions & QA Lead Engineer</b>&nbsp;&nbsp;|&nbsp;&nbsp;Saffron Corp (Intel), Cary, NC&nbsp;&nbsp;|&nbsp;&nbsp;2016 – 2019</summary>
 
   <br/>
 
@@ -44,7 +44,7 @@ Senior Lead Software Engineer with extensive experience at shepherding teams’ 
 </details>
 
 <details>
-  <summary>Senior Software Engineer&nbsp;&nbsp;|&nbsp;&nbsp;Intel Corp, Hillsboro, OR&nbsp;&nbsp;|&nbsp;&nbsp;Past – 2016</summary>
+  <summary><b>Senior Software Engineer</b>&nbsp;&nbsp;|&nbsp;&nbsp;Intel Corp, Hillsboro, OR&nbsp;&nbsp;|&nbsp;&nbsp;Past – 2016</summary>
 
   <br/>
 
