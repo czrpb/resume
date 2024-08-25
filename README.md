@@ -28,6 +28,8 @@ Senior Lead Software Engineer with extensive experience at shepherding teams’ 
 <details>
   <summary>Senior Solutions & QA Lead Engineer&nbsp;&nbsp;|&nbsp;&nbsp;Saffron Corp (Intel), Cary, NC&nbsp;&nbsp;|&nbsp;&nbsp;2016 – 2019</summary>
 
+  <br/>
+
   * Led QA to initiate Saffron’s memory base (SMB) test coverage by creating 50+ API test cases as hierarchical Cucumber test suites
   * As a participant in a data science team, created actionable analytics and presented to Navy Admiral level staff using Saffron’s connectionist learning graph application thru (a) data cleansing, (b) statistical characterization, and (c) network visualizations
 
