@@ -18,7 +18,9 @@ Senior Lead Software Engineer with extensive experience at shepherding teams’ 
   * Influenced business decisions by enabling timely bi-quarterly releases of a telemetry tool to 10+ million systems as both PO and QA lead
 
 &nbsp;&nbsp;&nbsp;&nbsp;*Innovation*: Observational Test System (OTiS)
+
 &nbsp;&nbsp;&nbsp;&nbsp;*Technologies*: Python, Elixir
+
 &nbsp;&nbsp;&nbsp;&nbsp;*Focuses*: Mentoring & Team Culture
 
 </details>
@@ -30,7 +32,9 @@ Senior Lead Software Engineer with extensive experience at shepherding teams’ 
   * As a participant in a data science team, created actionable analytics and presented to Navy Admiral level staff using Saffron’s connectionist learning graph application thru (a) data cleansing, (b) statistical characterization, and (c) network visualizations
 
 &nbsp;&nbsp;&nbsp;&nbsp;*Innovation*: Network viz w/ NetworkX
+
 &nbsp;&nbsp;&nbsp;&nbsp;*Technologies*: Python/Jupyter NB, Javascript
+
 &nbsp;&nbsp;&nbsp;&nbsp;*Focuses*: Connectionist AI
 
 </details>
@@ -43,7 +47,9 @@ Senior Lead Software Engineer with extensive experience at shepherding teams’ 
   * As a SW Engineer: Continually focused on adding value to SW teams’ environment, infrastructure, and QA through automation
 
 &nbsp;&nbsp;&nbsp;&nbsp;*Innovation*: Metaphoric Design
+
 &nbsp;&nbsp;&nbsp;&nbsp;*Technologies*: SOA/REST, Python, HTML/JS, Sqlite3
+
 &nbsp;&nbsp;&nbsp;&nbsp;*Focuses*: Linked & Semantic Data
 
 </details>
