@@ -32,7 +32,14 @@ Senior Lead Software Engineer with extensive experience at shepherding teams’ 
 </details>
 
 <details>
-  <summary></summary>
+  <summary>Senior Software Engineer&nbsp;&nbsp;|&nbsp;&nbsp;Intel Corp, Hillsboro, OR&nbsp;&nbsp;|&nbsp;&nbsp;Past – 2016</summary>
+
+  * As a Framework Architect: Enabled scalable device testing to teams internal and external to Intel as the key validation SW component of the organization’s HW/SW product with the creation of a distributed microservice validation execution system (TWS)
+  * As an Automation Lead: Enabled scheduled and ad-hoc build and test infrastructure thru the design, deployment and maintenance of CI for a team of 100+ SW engineers developing a digital home device (Diner)
+  * As a SW Engineer: Continually focused on adding value to SW teams’ environment, infrastructure, and QA through automation
+
+&nbsp;&nbsp;&nbsp;&nbsp;*Innovation*: Metaphoric Design&nbsp;&nbsp;|&nbsp;&nbsp;*Technologies*: SOA/REST, Python, HTML/JS, Sqlite3&nbsp;&nbsp;|&nbsp;&nbsp;*Focuses*: Linked & Semantic Data
+
 </details>
 
 ### Additional
