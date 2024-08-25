@@ -2,8 +2,9 @@
 
 ### Consummate Generalist
 
-<p>&nbsp;&nbsp;&nbsp;Nehalem, OR 97131&nbsp;&nbsp;|&nbsp;&nbsp;crain.quentin@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;(503) 310-1118&nbsp;&nbsp;|&nbsp;&nbsp;(github.com/czrpb/)[https://github.com/czrpb/]</p>
-<p>&nbsp;&nbsp;&nbsp;CIS, B.S.&nbsp;&nbsp;University of Oregon</p>
+&nbsp;&nbsp;&nbsp;Nehalem, OR 97131&nbsp;&nbsp;|&nbsp;&nbsp;crain.quentin@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;(503) 310-1118&nbsp;&nbsp;|&nbsp;&nbsp;(github.com/czrpb/)[https://github.com/czrpb/]
+
+&nbsp;&nbsp;&nbsp;CIS, B.S.&nbsp;&nbsp;University of Oregon
 
 ### Developer Educator&nbsp;&nbsp;|&nbsp;&nbsp;Developer Advocate&nbsp;&nbsp;|&nbsp;&nbsp;SW Developer
 
