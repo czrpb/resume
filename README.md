@@ -43,3 +43,7 @@ Senior Lead Software Engineer with extensive experience at shepherding teams’ 
 </details>
 
 ### Additional
+
+* Volunteer participant in the development of materials for DockYard Academy teaching Elixir
+* Programming mentoring with pre-CS teens
+* Beyond tech, extensive personal study into philosophy, sociology, and human factors
