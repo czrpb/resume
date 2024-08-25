@@ -11,7 +11,7 @@ Senior Lead Software Engineer with extensive experience at shepherding teams’ 
 ## Professional Experience
 
 <details>
-  <summary>Developer Advocate (Sr Lead Software Engineer)&nbsp;&nbsp;|&nbsp;&nbsp;Intel Corp, Hillsboro, OR&nbsp;&nbsp;|&nbsp;&nbsp;2019 – Present</summary>
+  <summary>**Developer Advocate (Sr Lead Software Engineer)**&nbsp;&nbsp;|&nbsp;&nbsp;Intel Corp, Hillsboro, OR&nbsp;&nbsp;|&nbsp;&nbsp;2019 – Present</summary>
 
   <br/>
 
