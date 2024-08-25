@@ -13,6 +13,8 @@ Senior Lead Software Engineer with extensive experience at shepherding teams’ 
 <details>
   <summary>Developer Advocate (Sr Lead Software Engineer)&nbsp;&nbsp;|&nbsp;&nbsp;Intel Corp, Hillsboro, OR&nbsp;&nbsp;|&nbsp;&nbsp;2019 – Present</summary>
 
+  <br/>
+
   * Grew the culture of SW professionalism in an organization of 300+ with 15+ documented SW best practices in half a year thru the formation of an Engineering Practices team of 5
   * Cultivated a culture of active caring, including Respect, Openness, Honesty, evidenced by impactful bottom-up influence thru (a) direct engineer “listening” sessions, (b) quarterly hacker weeks, and (c) facilitating trustful failure analysis reviews by building a 6-person Engineer Advocate team
   * Influenced business decisions by enabling timely bi-quarterly releases of a telemetry tool to 10+ million systems as both PO and QA lead
@@ -43,6 +45,8 @@ Senior Lead Software Engineer with extensive experience at shepherding teams’ 
 
 <details>
   <summary>Senior Software Engineer&nbsp;&nbsp;|&nbsp;&nbsp;Intel Corp, Hillsboro, OR&nbsp;&nbsp;|&nbsp;&nbsp;Past – 2016</summary>
+
+  <br/>
 
   * As a Framework Architect: Enabled scalable device testing to teams internal and external to Intel as the key validation SW component of the organization’s HW/SW product with the creation of a distributed microservice validation execution system (TWS)
   * As an Automation Lead: Enabled scheduled and ad-hoc build and test infrastructure thru the design, deployment and maintenance of CI for a team of 100+ SW engineers developing a digital home device (Diner)
