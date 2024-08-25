@@ -2,7 +2,7 @@
 
 ### Consummate Generalist
 
-&nbsp;&nbsp;&nbsp;Nehalem, OR 97131&nbsp;&nbsp;|&nbsp;&nbsp;crain.quentin@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;(503) 310-1118&nbsp;&nbsp;|&nbsp;&nbsp;(github.com/czrpb/)[https://github.com/czrpb/]
+&nbsp;&nbsp;&nbsp;Nehalem, OR 97131&nbsp;&nbsp;|&nbsp;&nbsp;crain.quentin@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;(503) 310-1118&nbsp;&nbsp;|&nbsp;&nbsp;[github.com/czrpb/](https://github.com/czrpb/)
 
 &nbsp;&nbsp;&nbsp;CIS, B.S.&nbsp;&nbsp;University of Oregon
 
@@ -13,10 +13,7 @@ Senior Lead Software Engineer with extensive experience at shepherding teams’ 
 ## Professional Experience
 
 <details>
-  <summary>
-    <p>Developer Advocate (Sr Lead Software Engineer) - Intel Corp, Hillsboro, OR</p>
-    <p>2019 – Present</p>
-  </summary>
+  <summary>Developer Advocate (Sr Lead Software Engineer)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Intel Corp, Hillsboro, OR&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;2019 – Present</summary>
 
   * Grew the culture of SW professionalism in an organization of 300+ with 15+ documented SW best practices in half a year thru the formation of an Engineering Practices team of 5
   * Cultivated a culture of active caring, including Respect, Openness, Honesty, evidenced by impactful bottom-up influence thru (a) direct engineer “listening” sessions, (b) quarterly hacker weeks, and (c) facilitating trustful failure analysis reviews by building a 6-person Engineer Advocate team
